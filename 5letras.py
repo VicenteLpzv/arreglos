@@ -1,4 +1,5 @@
 #Vicente Yahir Lopez Vazquez - 240010
+#mostrar las letras ingresadas y buscar cuantas veces se repite una letra
 
 letras = []
 

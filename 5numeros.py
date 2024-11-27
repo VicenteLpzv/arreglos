@@ -1,4 +1,5 @@
 #Vicente Yahir Lopez Vazquez - 240010
+#mostrar el numero minimo y maximo ingresado
 
 numeros = []
 

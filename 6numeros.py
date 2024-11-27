@@ -1,4 +1,5 @@
 #Vicente Yahir Lopez Vazquez - 240010
+#Decir si el arreglo está ordenado de mayor o menor o decir si no lo está
 
 numeros = []
 

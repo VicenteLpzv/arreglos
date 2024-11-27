@@ -1,3 +1,5 @@
+#Vicente Yahir Lopez Vazquez - 240010
+#ordenar alfabeticamente las palabras
 
 palabras = []
 for i in range(1,6):

@@ -1,5 +1,5 @@
 #Vicente Yahir Lopez Vazquez - 240010
-
+#Mostrar los numeros ingresados e invertirlos
 
 numeros = []
 
